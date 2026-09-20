@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi! I'm a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, Bootstrap, and React to create modern web experiences.<br><br>🌱 Currently improving my frontend development skills and learning new technologies.<br>💻 I enjoy turning ideas and designs into functional websites.<br>🚀 My goal is to become a skilled and creative web developer.<br>
+<br><br>Hi! I'm a passionate Frontend Developer who enjoys building clean, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, Bootstrap, and React to create modern web experiences.<br><br>🌱 Currently improving my frontend development skills and learning new technologies.<br>🐱‍🏍 I enjoy turning ideas and designs into functional websites.<br>🚀 My goal is to become a skilled and creative web developer.<br>
 
 
 ## 🌐 Socials:
